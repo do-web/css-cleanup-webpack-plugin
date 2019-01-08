@@ -1,0 +1,38 @@
+{
+  "name": "css-cleanup-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Remove unused css and duplicated css rules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do-web/css-cleanup-webpack-plugin.git"
+  },
+  "keywords": [
+    "css",
+    "cleanup",
+    "purgecss",
+    "csspurge",
+    "unused",
+    "webpack",
+    "webpack4",
+    "plugin",
+    "styles",
+    "html",
+    "js"
+  ],
+  "author": "Dominik Weber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/do-web/css-cleanup-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/do-web/css-cleanup-webpack-plugin#readme",
+  "devDependencies": {
+    "rm-unused-css": "^1.1.4"
+  },
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  }
+}
