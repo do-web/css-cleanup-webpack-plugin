@@ -12,7 +12,7 @@ This module requires a minimum of Node v6.9.0 and Webpack v4.0.0.
 To begin, you'll need to install `css-cleanup-webpack-plugin`:
 
 ```console
-$ npm install css-cleanup-webpack-plugin --save-dev
+$ npm install css-cleanup-webpack-plugin rm-unused-css --save-dev
 ```
 
 Then add the plugin to your `webpack` config. For example:
