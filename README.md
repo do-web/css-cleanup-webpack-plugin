@@ -38,3 +38,7 @@ module.exports = {
 ```
 
 And run `webpack` via your preferred method.
+
+## Donate
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1AvuyxxtGufTwpyRCKw74FQXVtPirEnwP6)](https://en.cryptobadges.io/donate/1AvuyxxtGufTwpyRCKw74FQXVtPirEnwP6)
