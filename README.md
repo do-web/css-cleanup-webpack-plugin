@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/github/issues/do-web/css-cleanup-webpack-plugin.svg" alt="Build Status">
+    <img src="https://img.shields.io/github/license/do-web/css-cleanup-webpack-plugin.svg" alt="license">
+    <img src="https://img.shields.io/npm/dw/css-cleanup-webpack-plugin.svg" alt="Downloads in week">
+    <img src="https://img.shields.io/npm/v/css-cleanup-webpack-plugin.svg" alt="npm version">
+</p>
+
+
 # css-cleanup-webpack-plugin
 
 Remove unused css and duplicated css rules. 
